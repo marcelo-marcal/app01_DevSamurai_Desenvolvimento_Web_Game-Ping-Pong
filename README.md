@@ -85,7 +85,7 @@ Para isso vamos entender oque o comando `arc`, pede:
 1.5 * Math.PI = 3/4 do circulo.
 2.0 * Math.PI = circulo.
 <h1 align="center">
-    <img src="../img/img_arc.png" />
+    <img src="./img/img_arc.png" />
 </h1>
 
 ```js
